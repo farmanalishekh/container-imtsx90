@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "farmanalishekh",
+  "repo": "container-imtsx90",
+  "name": "farmanalishekh",
+  "email": "farman36shekh63@gmail.com",
+}
